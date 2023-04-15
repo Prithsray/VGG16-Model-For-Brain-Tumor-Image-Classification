@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 10 16:27:24 2023
 
-@author: ankur
-"""
 
 # vgg16 model used for transfer learning on the dogs and cats dataset
 import sys
